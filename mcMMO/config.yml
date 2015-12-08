@@ -24,7 +24,7 @@ General:
     TruncateSkills: false
     # Should mcMMO print out debug messages?
     Verbose_Logging: false
-    # Should mcMMO over-write configs to update, or make new ones ending in .new?
+    # Should mcMMO over-write configs to update, or make new ones ending in .new??
     Config_Update_Overwrite: true
     # Play level-up sounds
     LevelUp_Sounds: true
