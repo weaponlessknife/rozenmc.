@@ -162,37 +162,37 @@ Hardcore:
     Death_Stat_Loss:
         Penalty_Percentage: 25.0
         Level_Threshold: 0
-        Enabled:
-true          Acrobatics: false
-            Alchemy: false
-            Archery: false
-            Axes: false
-            Excavation: false
-            Fishing: false
-            Herbalism: false
-            Mining: false
-            Repair: false
-            Swords: false
-            Taming: false
-            Unarmed: false
-            Woodcutting: false
+        Enabled: true
+          Acrobatics: true
+            Alchemy: true
+            Archery: true
+            Axes: true
+            Excavation: true
+            Fishing: true
+            Herbalism: true
+            Mining: true
+            Repair: true
+            Swords: true
+            Taming: true
+            Unarmed: true
+            Woodcutting: true
     Vampirism:
         Leech_Percentage: 5.0
         Level_Threshold: 0
-        Enabled:
-            Acrobatics: false
-            Alchemy: false
-            Archery: false
-            Axes: false
-            Excavation: false
-            Fishing: false
-            Herbalism: false
-            Mining: false
-            Repair: false
-            Swords: false
-            Taming: false
-            Unarmed: false
-            Woodcutting: false
+        Enabled:true
+            Acrobatics: true
+            Alchemy: true
+            Archery: true
+            Axes: true
+            Excavation: true
+            Fishing: true
+            Herbalism: true
+            Mining: true
+            Repair: true
+            Swords: true
+            Taming: true
+            Unarmed: true
+            Woodcutting: true
 
 #
 #  Settings for SMP Mods
