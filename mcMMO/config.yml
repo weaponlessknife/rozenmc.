@@ -179,7 +179,7 @@ Hardcore:
     Vampirism:
         Leech_Percentage: 5.0
         Level_Threshold: 0
-        Enabled:true
+        Enabled: true
             Acrobatics: true
             Alchemy: true
             Archery: true
